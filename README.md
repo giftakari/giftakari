@@ -1,9 +1,10 @@
 # Hi there 👋, my name is Godsgift
-### *I am an experienced Software Engineer who is passionate about playing a key role in delivering innovative and customer-focused software solutions*.
+
+### *I am an experienced Software Engineer *.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giftakari&show_icons=true&count_private=true&theme=radical)
 
-![I am Godsgift Akari](https://pbs.twimg.com/profile_banners/278924776/1631864230/1500x500)
+
 
 I am an experienced Software Engineer who is passionate about playing a key role in delivering innovative and customer-focused software solutions.
 
