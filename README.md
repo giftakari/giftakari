@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Godsgift
 
-### *I am an experienced Software Engineer *.
+### *I am an experienced Software Engineer*.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giftakari&show_icons=true&count_private=true&theme=radical)
 
