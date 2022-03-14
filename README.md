@@ -8,7 +8,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giftakari&show_icons=true&count_private=true&theme=radical&count_all_commits=true&langs_count=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giftakari)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giftakari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
