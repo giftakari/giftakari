@@ -18,6 +18,7 @@ I have a strong end-user understanding, am a punctual reliable self-starter who 
 Skills: JavaScript, REACT , HTML ,CSS, Angular, Salesforce
 
 - 🔭 I’m currently working on this page. 
+- 
 
 
 
