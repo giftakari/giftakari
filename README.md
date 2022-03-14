@@ -5,7 +5,7 @@
 
 ### *I am an experienced Software Engineer*.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giftakari&show_icons=true&count_private=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giftakari&show_icons=true&count_private=true&theme=radical&count_all_commits=true)
 
 
 
