@@ -1,7 +1,7 @@
 # Hi there 👋, my name is Godsgift
 ### *I am an experienced Software Engineer who is passionate about playing a key role in delivering innovative and customer-focused software solutions*.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giftakari)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giftakari)](https://github.com/giftakari/github-readme-stats)
 
 ![I am Godsgift Akari](https://pbs.twimg.com/profile_banners/278924776/1631864230/1500x500)
 
@@ -17,7 +17,22 @@ I have a strong desire and ability to continue driving innovation for the benefi
 I can work both as a part of a close team and autonomously.
 I have a strong end-user understanding, am a punctual reliable self-starter who shows initiative, and take pride in my work.
 
-Skills: JavaScript, REACT , HTML ,CSS, Angular, Salesforce
+### Technologies I've worked more with 
+- Javascript
+- React
+- Angular
+- Angular.js
+- CSS 
+- Material UI/ Angular Material
+- .NET Core 
+- SQL server 
+
+
+### *Technologies I've explored 
+- SVELTE.JS
+- SCALA
+- SALESFORCE 
+- JAVA
 
 - 🔭 I’m currently working on this page. 
 - 
