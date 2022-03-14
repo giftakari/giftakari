@@ -1,4 +1,5 @@
-# Hi there 👋, my name is Godsgift
+
+           # Hi there 👋, my name is Godsgift
 
 ### *I am an experienced Software Engineer*.
 
@@ -18,7 +19,7 @@ I have a strong desire and ability to continue driving innovation for the benefi
 I can work both as a part of a close team and autonomously.
 I have a strong end-user understanding, am a punctual reliable self-starter who shows initiative, and take pride in my work.
 
-### Technologies I've worked more with 
+## *Technologies I've worked more with*
 - Javascript
 - React
 - Angular
@@ -29,7 +30,7 @@ I have a strong end-user understanding, am a punctual reliable self-starter who 
 - SQL server 
 
 
-### *Technologies I've explored 
+## *Technologies I've explored* 
 - SVELTE.JS
 - SCALA
 - SALESFORCE 
