@@ -25,32 +25,33 @@ I have a strong end-user understanding, am a punctual reliable self-starter who 
 
 
 
+## *Technologies I've worked more with*
+```js
+- Javascript
+- React
+- Angular
+- Angular.js
+- CSS 
+- Material UI/ Angular Material
+- .NET Core 
+- SQL server 
+```
 
+## *Technologies I've explored* 
 
-| **Technologies I've worked more with**            |                       **Technologies I've explored**    |
-| : ----------------------------------------------: |--------------------------------------------------------:|
-|  **Javascript**                                   | **Scala**                                               |
-|  **React**                                        | **Svelte.js**                                           |
-|  **Angular**                                      | **Salesforce**                                          |
-|  **Angular.js**                                   | **Java**                                                |
-|  **CSS**                                          |                                                         |
-|  **Material UI/ Angular Material**                |                                                         |
-| **.NET Core**                                     |                                                         |
-| **SQL server**                                    |                                                         |
+```js
+- SVELTE.JS
+- SCALA
+- SALESFORCE 
+- JAVA
 
-    
-    
-
-
-
-
-
-### Social platforms 
+```
+- 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/giftakari)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/👑-godsgift-akari-9951b05b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCnGxZBUA1ENEgH0aIcw3LlA)  
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Sy6KRAitsIQ&t=7s/0.jpg)](http://www.youtube.com/watch?v=Sy6KRAitsIQ&t=7s)
+
 
 
 
