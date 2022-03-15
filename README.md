@@ -20,7 +20,7 @@ I have a strong end-user understanding, am a punctual reliable self-starter who 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giftakari&show_icons=true&count_private=true&theme=radical&count_all_commits=true&langs_count=true&include_all_commits=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giftakari&layout=compact&count_private=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giftakari&layout=compact&count_private=true&theme=radical&include_all_commits=true&show_icons)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
