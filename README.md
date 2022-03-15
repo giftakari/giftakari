@@ -17,10 +17,10 @@ I have a strong desire and ability to continue driving innovation for the benefi
 I can work both as a part of a close team and autonomously.
 I have a strong end-user understanding, am a punctual reliable self-starter who shows initiative, and take pride in my work.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giftakari&show_icons=true&count_private=true&theme=radical&count_all_commits=true&langs_count=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giftakari&show_icons=true&count_private=true&theme=radical&count_all_commits=true&langs_count=true&include_all_commits=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giftakari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giftakari&layout=compact&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
