@@ -61,5 +61,11 @@ I have a strong end-user understanding, am a punctual reliable self-starter who 
 
 
 
-<p align="center"><iframe width="400" height="300" src="https://www.youtube.com/embed/Sy6KRAitsIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<div align="center"><iframe width="400" height="300" src="https://www.youtube.com/embed/Sy6KRAitsIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=Sy6KRAitsIQ&t=7s">
+         <img src="https://img.youtube.com/vi/Sy6KRAitsIQ&t=7s/0.jpg" style="width:100%;">
+      </a>
+</div>
 
