@@ -26,6 +26,7 @@ I have a strong end-user understanding, am a punctual reliable self-starter who 
 
 
 ## *Technologies I've worked more with*
+```js
 - Javascript
 - React
 - Angular
@@ -34,14 +35,17 @@ I have a strong end-user understanding, am a punctual reliable self-starter who 
 - Material UI/ Angular Material
 - .NET Core 
 - SQL server 
-
+```
 
 ## *Technologies I've explored* 
+
+```js
 - SVELTE.JS
 - SCALA
 - SALESFORCE 
 - JAVA
 
+```
 - 🔭 I’m currently working on this page. 
 
 
