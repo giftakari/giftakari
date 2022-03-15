@@ -63,9 +63,5 @@ I have a strong end-user understanding, am a punctual reliable self-starter who 
 
 
 
-<div align="left">
-      <a href="https://www.youtube.com/watch?v=Sy6KRAitsIQ&t=7s">
-         <img src="https://img.youtube.com/vi/Sy6KRAitsIQ&t=7s/0.jpg" style="width:100%;">
-      </a>
-</div>
+
 
